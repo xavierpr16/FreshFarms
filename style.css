@@ -1,0 +1,43 @@
+
+  /* Container holding the image and the text */
+
+
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: BioRhyme, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:x-large;
+  }
+  .inlineblock {display: inline-block; left: 200px; color: #FCEDDB; ;}
+   
+  .card-title { 
+
+
+  }
+ footer { background-color: #82C6BA; display: block; text-align: end; letter-spacing: 2.5px; padding: 10px;  }
+.footerimage {
+
+display: block ; width: 8%; 
+
+}
+
+#footerline {
+
+ size: cover; width: 10000px;
+ 
+ }
+
+ form {   color: #82C6BA; align: center; position:static; padding-inline: 35%;  }
+
+ html {  background-color: #82C6BA;}
